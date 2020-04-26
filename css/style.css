@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    box-sizing: border-box!important;
+}
+
+img,
+iframe,
+video {
+    max-width: 100%;
+}
+
+.top-header {
+    background-color: black;
+    padding-top: 20px;
+}
+
+.logo-section {
+    background-color: #252525;
+}
+
+.navbar-nav li a {
+    color: white;
+}
+
+.color-gray {
+    background-color: #252525;
+}
+
+.testimonial {
+    background: url(../images/cofffee-theme.jpg) no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.pics {
+    background: url(../images/coffee2.webp) no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+
+.pics1 {
+    background: url(../images/coffee1.jpg) no-repeat;
+    background-size: cover;
+}
